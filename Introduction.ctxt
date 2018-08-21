@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Introduction
+comment0.text=\r\n\ \r\n\ this\ important\r\n\ \r\n\ @autbor\ me\r\n\ @version\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ crashComputer()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=void\ crashJVM()
+numComments=5
